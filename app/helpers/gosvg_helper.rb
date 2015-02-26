@@ -1,0 +1,2 @@
+module GosvgHelper
+end
